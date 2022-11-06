@@ -6,9 +6,9 @@ function prime(N) {
     }
   }
   if (count === 2) {
-    return console.log(N, "is a prime")
-  } else {
     return console.log(N, "is not a prime")
+  } else {
+    return console.log(N, "is a prime")
   }
 
 }
